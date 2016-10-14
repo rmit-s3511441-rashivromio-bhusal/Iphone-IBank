@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   branches.plist
+   IbankApp
+
+   Created by Naveen Bajaj on 21/05/2016.
+   Copyright (c) 2016 Rmit. All rights reserved.
+-->
+<plist version="1.0">
+    <array>
+        <dict>
+            <key>lat</key>
+            <real>-37.81683</real>
+            <key>long</key>
+            <real>144.96716</real>
+            <key>no</key>
+            <integer>1</integer>
+            <key>title</key>
+            <string>AUS-21 Swanston St Melbourne</string>
+        </dict>
+        <dict>
+            <key>lat</key>
+            <real>-37.81398</real>
+            <key>long</key>
+            <real>144.95735</real>
+            <key>no</key>
+            <integer>2</integer>
+            <key>title</key>
+            <string>AUS-221 William St Melbourne</string>
+        </dict>
+        <dict>
+            <key>lat</key>
+            <real>-37.81322</real>
+            <key>long</key>
+            <real>144.96703</real>
+            <key>no</key>
+            <integer>3</integer>
+            <key>title</key>
+            <string>AUS-225 Bourke St Melbourne</string>
+        </dict>
+        <dict>
+            <key>lat</key>
+            <real>-37.81693</real>
+            <key>long</key>
+            <real>144.96194</real>
+            <key>no</key>
+            <integer>3</integer>
+            <key>title</key>
+            <string>AUS-367 Collins St Melbourne</string>
+        </dict>
+        <dict>
+            <key>lat</key>
+            <real>-37.81432</real>
+            <key>long</key>
+            <real>144.96314</real>
+            <key>no</key>
+            <integer>3</integer>
+            <key>title</key>
+            <string>AUS-385 Bourke St Melbourne</string>
+        </dict>
+        
+        <dict>
+            <key>lat</key>
+            <real>-37.8162</real>
+            <key>long</key>
+            <real>144.96121</real>
+            <key>no</key>
+            <integer>3</integer>
+            <key>title</key>
+            <string>AUS-99 Queen St Melbourne</string>
+        </dict>
+        
+        <dict>
+            <key>lat</key>
+            <real>-37.80931</real>
+            <key>long</key>
+            <real>144.96398</real>
+            <key>no</key>
+            <integer>3</integer>
+            <key>title</key>
+            <string>AUS-RMIT</string>
+        </dict>
+        <dict>
+            <key>lat</key>
+            <real>-37.81773</real>
+            <key>long</key>
+            <real>144.95625</real>
+            <key>no</key>
+            <integer>3</integer>
+            <key>title</key>
+            <string>AUS-Western (99 King St) Melbourne</string>
+        </dict>
+        <dict>
+            <key>lat</key>
+            <real>-37.79704</real>
+            <key>long</key>
+            <real>144.96308</real>
+            <key>no</key>
+            <integer>3</integer>
+            <key>title</key>
+            <string>AUS-University of Melbourne Parkville</string>
+        </dict>
+        
+           </array>
+</plist>

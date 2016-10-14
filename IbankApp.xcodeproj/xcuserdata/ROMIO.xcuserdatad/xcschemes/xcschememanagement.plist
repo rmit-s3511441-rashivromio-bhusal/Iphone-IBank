@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>IbankApp.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>TodayOffers.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>01098B0F1CEF36120064203B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0146C07E1C9EAD4B0011E452</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0146C0921C9EAD4B0011E452</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0146C09D1C9EAD4B0011E452</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
